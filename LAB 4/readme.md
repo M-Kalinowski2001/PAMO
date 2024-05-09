@@ -8,6 +8,6 @@ BMI changes chart:
 
 Shopping list:
 
-![alt text](pic2.jpg)
+![alt text](pic2.png)
 
 
